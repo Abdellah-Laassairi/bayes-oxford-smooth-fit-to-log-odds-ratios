@@ -3,4 +3,4 @@
 ## Project summary :
 ## Project requirements : 
 
-## Work envirement : 
+## Work environment : 
