@@ -2,6 +2,8 @@
 
 ## Project summary :
 
+<img src="data/chest.jpg" data-canonical-src="data/chest.jpg" width="400" height="400" />
+
 Breslow and Clayton (1993)[1] re-analyse 2 by 2 tables of cases (deaths from childhood cancer)
 and controls tabulated against maternal exposure to X-rays, one table for each of 120
 combinations of age (0-9) and birth year (1944-1964). The data may be arranged to the following
