@@ -17,5 +17,6 @@ form [2]
 
 ## Sources : 
 [1]	N E Breslow and D G Clayton. Approximate inference in generalized linear mixed models. Journal of the American Statistical Association, 88:9–25, 1993.
+
 [2]	OpenBUGS Project Management Group. OpenBUGS Examples Volume I. 2014. version 3.2.3. URL: http://www.openbugs.net/Examples/Volumei.html.
 
