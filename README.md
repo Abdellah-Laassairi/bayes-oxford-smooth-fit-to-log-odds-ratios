@@ -1,5 +1,7 @@
 # Oxford : smooth fit to log-odds ratios
 
+**objective** : The objective of this study is to observe the influence/association between death from maternal exposure to X-rays and childhood cancer for subjects partitioned into 120 age and birth-year strata.
+
 ## Project summary :
 
 <img src="data/chest.jpg" data-canonical-src="data/chest.jpg" width="400" height="400" />
